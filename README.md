@@ -40,7 +40,7 @@ A Tampermonkey userscript that automatically applies Right-to-Left (RTL) directi
 
 **سازگار با:** localhost:5678 و n8n.cloud
 
-**نسخه:** 1.2 (Safe) | **نویسنده:** محمد یمینی
+**نسخه:** 1.2 (Safe) | **نویسنده:** محمد یامینی
 
 ## 🤝 مشارکت
 
